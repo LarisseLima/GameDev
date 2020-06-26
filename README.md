@@ -9,7 +9,7 @@
 <img src="prints/print1.png">
 <img src="prints/print2.png">
 
-<h3 align="center">Desenvolvido por Larisse Lima</h3>
+<h3 align="center">Desenvolvido por Larisse Lima :coffee: </h3>
 
 
 
