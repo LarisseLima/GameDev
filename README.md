@@ -1,5 +1,5 @@
 
-# IMERSÃO - JavaScript - Game Dev - Alura :girl_technologist:
+# IMERSÃO - JavaScript - Game Dev - Alura :woman_technologist:
 
 <h2 align="center">Imersão Game Dev - Alura</h2>
 
