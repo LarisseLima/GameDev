@@ -18,6 +18,11 @@ let inimigoAtual = 0;
 let jogo;
 let telaInicial;
 let botaoGerenciador;
+let imagemVida;
+let vida;
+let fita;
+let sommorrer;
+let somColisao;
 
 let cenaAtual = 'telaInicial';
 
