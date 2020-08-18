@@ -3,20 +3,26 @@
 
 <h2 align="center"> Game Dev - As aventuras de Larisse </h2>
 
-<p> Um projeto de pequeno jogo endless runner desenvolvido na Imersão Game Dev - Alura ,utilizando  P5JS e JavaScript <br>
+## 💻 Sobre o projeto
+Um projeto de pequeno jogo endless runner desenvolvido na Imersão Game Dev - Alura ,utilizando  P5JS e JavaScript.
   
-  Para Jogar : https://editor.p5js.org/LarisseLima/present/trEU6CVbs (Usando seta para cima movimenta a personagem)
+ Para Jogar : https://editor.p5js.org/LarisseLima/present/trEU6CVbs (Usando seta para cima movimenta a personagem)
   
-</p>
+---
+
+## 🎨 Layout
 
 <img src="prints/print1.png">
 <img src="prints/print2.png">
 
+---
 
-[ LinkedIn ](https://www.linkedin.com/in/larisselima/)
+
+Desenvolvido com :coffee: por Larisse Lima >>>> [Linkedin](https://www.linkedin.com/in/larisselima/)
 
 
-<h3 align="center">Desenvolvido por Larisse Lima :coffee: </h3>
+
+
 
 
 
