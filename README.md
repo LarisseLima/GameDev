@@ -6,7 +6,8 @@
 ## 💻 Sobre o projeto
 Um projeto de pequeno jogo endless runner desenvolvido na Imersão Game Dev - Alura ,utilizando  P5JS e JavaScript.
   
- Para Jogar : https://editor.p5js.org/LarisseLima/present/trEU6CVbs (Usando seta para cima você movimenta a personagem)
+ Para Jogar : https://editor.p5js.org/LarisseLima/present/trEU6CVbs <br>
+ (Usando seta para cima você movimenta a personagem)
   
 ---
 
