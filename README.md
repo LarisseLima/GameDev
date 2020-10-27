@@ -19,7 +19,7 @@ Um projeto de pequeno jogo endless runner desenvolvido na Imersão Game Dev - Al
 ---
 
 
-Desenvolvido com :coffee: por Larisse Lima >>> [Linkedin](https://www.linkedin.com/in/larisselima/)
+<p align="center"><b>Feito com 	:coffee: por Larisse Lima</b></p>
 
 
 
